@@ -1,0 +1,1 @@
+insert into usuario(usuario,password,rol) values('diego','$2a$12$ewZ2pfZrhuCgKMuqvXX0S.mPRtWYxqxVSKHQuON9qU0k0r6yvBnRy','ADMIN')
